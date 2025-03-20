@@ -1,3 +1,5 @@
+![forecast_plot](https://github.com/user-attachments/assets/fc60212b-52dd-4cf8-b0ea-f700e8b8c004)
+
 # SAP SD Integration for Predictive Sales Forecasting
 
 This project integrates with SAP SD to enhance Volvo's sales planning and order management:
